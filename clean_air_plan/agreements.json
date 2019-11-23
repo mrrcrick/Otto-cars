@@ -1,0 +1,32 @@
+{
+  "agreement_TPPI": {
+    "vehicle": "Toyota Prius Plug-in Hybrid Business Edition Plus",
+    "agreement_length": 3.5,
+    "weekly_rental": 249
+  },
+  "agreement_NLT6": {
+    "vehicle": "Nissan Leaf e+ Tekna - 62kWh",
+    "agreement_length": 4,
+    "weekly_rental": 249
+  },
+  "agreement_NLT4": {
+    "vehicle": "Nissan Leaf e+ Tekna - 40kWh",
+    "agreement_length": 4,
+    "weekly_rental": 219
+  },
+  "agreement_MVTS": {
+    "vehicle": "Mercedes Vito Tourer Select",
+    "agreement_length": 4,
+    "weekly_rental": 279
+  },
+  "agreement_MGZS": {
+    "vehicle": "MG ZS EV Exclusive",
+    "agreement_length": 3,
+    "weekly_rental": 259
+  },
+  "agreement_KNPH": {
+    "vehicle": "Kia Niro Plug-In Hybrid",
+    "agreement_length": 3.5,
+    "weekly_rental": 249
+  }
+}
