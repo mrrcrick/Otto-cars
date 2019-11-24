@@ -43,7 +43,7 @@ function setup($agreementsfile) {
     }
     return "Success";
 }
-// diplay cars
+// display cars
 function clean_air_plan($atts)
 {
     global $agreements;
@@ -97,6 +97,7 @@ function rate_calculater($id) {
     return $html;
 
 }
-
+// load the scripts
 add_action( 'wp_enqueue_scripts', 'load_scripts' );
+// register the shortcode
 add_shortcode( 'clean_air_plan', 'clean_air_plan' );
