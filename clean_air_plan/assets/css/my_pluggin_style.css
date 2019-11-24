@@ -1,7 +1,8 @@
 .car_panel {
 
     text-align:center;
-       width: 100%;
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
 }
 
 .error-msg {
@@ -16,9 +17,10 @@
 }
 .carcard {
     display: inline-block;
+    font-family: 'Poppins', sans-serif;
     font-size: 13px;
     min-width:320px;
-    height: 400px;
+    height: 420px;
     background-color: #F2F2F2;
     max-width: 320px;
     padding: 10px;
@@ -48,12 +50,17 @@
     overflow: hidden;
     font-size: 14px;
 }
+.carrow {
+    display: block;
+}
 .rate_calculater input[type=text] {
+    font-family: 'Poppins', sans-serif;
     background-color:#97d700;
     margin-left: 2px;
     border-style: none;
-    font-size: 14px;
+    font-size: 12px;
     border-bottom-style: solid;
+    border-bottom-color: white;
 
 }
 .rate_calculater button {
@@ -67,8 +74,8 @@
     border-style: solid;
 }
 
-.discount {
-
+.rate_calculater button:hover {
+    background:#bdff24;
 }
 
 .newprice {
