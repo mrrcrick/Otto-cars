@@ -54,6 +54,7 @@
     display: block;
 }
 .rate_calculater input[type=text] {
+    width:135px;
     font-family: 'Poppins', sans-serif;
     background-color:#97d700;
     margin-left: 2px;
